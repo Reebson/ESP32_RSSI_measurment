@@ -17,8 +17,8 @@
    If you'd rather not, just change the below entries to strings with
    the config you want - ie #define EXAMPLE_WIFI_SSID "mywifissid"
 */
-#define WIFI_SSID "3S"
-#define WIFI_PASS "szczupak69"
+#define WIFI_SSID NAME
+#define WIFI_PASS PASSWORD
 #define MAXIMUM_RETRY 50
 
 /* FreeRTOS event group to signal when we are connected*/
